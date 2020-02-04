@@ -1,5 +1,5 @@
 def welcome(name):
-    return ("Hello " + name + " and welcome to the World of Games (WoG). \nHere you can find many cool games to play.")
+    rreturn ("Hello " + name + " and welcome to the World of Games (WoG). \nHere you can find many cool games to play."))
 
 def load_game():
     from CurrencyRouletteGame import playCurrency
