@@ -33,3 +33,5 @@ def playCurrency(difficulty):
         return True
     else:
         return False
+    
+    print("test")
